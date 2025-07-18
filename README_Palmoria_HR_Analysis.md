@@ -56,8 +56,8 @@ This Power BI project explores gender-related issues within the Palmoria Group, 
 
 **Adesina Obafemi O**  
 Data Analyst | Power BI | SQL | Excel  
-GitHub: [your GitHub profile]  
-Email: [your email if you choose]
+GitHub: (https://github.com/femiadesina15)  
+Email: [femiadesina15@gmail.com]
 
 ---
 
